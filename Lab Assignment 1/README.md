@@ -4,11 +4,27 @@ Group Members
 
 Muhammad Hamza Khan Afridi 30257557
 
+<<<<<<< HEAD
+Muhammad Sajjad 30234125
+=======
+<<<<<<< HEAD
+Muhammad Sajjad            30234125
+>>>>>>> 5f66e41 (Resolve conflicts after rebase)
+
+Muhammad Saqib 30265504
+
+<<<<<<< HEAD
+Zain Aabaideen 30270057
+=======
+Zain Aabaideen             30270057
+=======
 Muhammad Sajjad 30234125
 
 Muhammad Saqib 30265504
 
 Zain Aabaideen 30270057
+>>>>>>> 43b41a8 (Updated Group Members Data)
+>>>>>>> 5f66e41 (Resolve conflicts after rebase)
 
 Lab Assignment Summary:
 
@@ -29,5 +45,16 @@ In part 4, we merged multiple datasets and done group analytics. Loaded another 
 Part 5: Using Matplotlib for Data Analytics:
 Plotted Histograms to see distributions. Scatter Plot to see relationships between english and math grades.These are used to verify dataset distribution, spread and clustering. 
 
+<<<<<<< HEAD
 Part 6: Linear LSE:
 Implemented polynomial curve fitting using unweighted and weighhted LSE for true and noisy obervations. For degrees 2, 4, & 6 we computed  coefficients, APV factor, residuals and covariance for weighted LSE and unweighted LSE to evaluate model performance.   
+=======
+<<<<<<< HEAD
+Part 6: Linear LSE
+
+Implemented polynomial curve fitting using unweighted and weighhted LSE for true and noisy obervations. For degrees 2, 4, & 6 we computed  coefficients, APV factor, residuals and covariance for weighted LSE and unweighted LSE to evaluate model performance.   
+=======
+Part 6: Linear LSE:
+Implemented polynomial curve fitting using unweighted and weighhted LSE for true and noisy obervations. For degrees 2, 4, & 6 we computed  coefficients, APV factor, residuals and covariance for weighted LSE and unweighted LSE to evaluate model performance.   
+>>>>>>> 43b41a8 (Updated Group Members Data)
+>>>>>>> 5f66e41 (Resolve conflicts after rebase)
