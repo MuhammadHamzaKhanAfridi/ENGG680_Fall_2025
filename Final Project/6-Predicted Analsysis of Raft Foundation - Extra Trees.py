@@ -1,7 +1,7 @@
 # Load the Python Standard and DesignScript Libraries
 import sys
 import clr
-sys.path.append(r'C:\\Users\\Asad\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages')
+sys.path.append(r'C:\\Users\\Zain\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages')
 clr.AddReference('ProtoGeometry')
 from Autodesk.DesignScript.Geometry import *
 
@@ -95,3 +95,4 @@ try:
 
 except Exception as e:
     OUT = [f"Prediction Error: {str(e)}", {}]
+
